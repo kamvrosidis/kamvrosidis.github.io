@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My favourite foods</title>
+</head>
+<body>
+    <h1 id="main">My favourite foods</h1>
+    <div>
+        <h2>Fast Food</h2>
+        <ol>
+            <li>Pizza <br> <img src="https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg" alt="Pizza" width="200px"></li>
+            <li>Burger <br> <img src="https://www.allrecipes.com/thmb/RTo6ddljby-5lAszPdMRwQ-aVh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19863best-burger-everFranceC4x3-c9c7d5cae40b4a58a110a33e04b531d1.jpg" alt="Burger" width="200px">
+        </ol>
+    </div>
+    <div>
+        <h2>Homemade</h2>
+        <ol>
+            <li>Pasta</li> <br> <img src="https://www.allrecipes.com/thmb/5SdUVhHTMs-rta5sOblJESXThEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11691-tomato-and-garlic-pasta-ddmfs-3x4-1-bf607984a23541f4ad936b33b22c9074.jpg" alt="Pasta" width="200px">
+            <li>Steak</li> <br> <img src="https://jesspryles.com/wp-content/uploads/2020/04/untitled-2.jpg" alt="Steak" width="200px">
+        </ol>
+    </div>
+
+    Hungry yet? Go to a <a href="https://www.mcdonalds.com/us/en-us.html" target=”_blank”>McDonald's</a>
+</body>
+</html>
